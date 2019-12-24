@@ -1,0 +1,3 @@
+﻿  Binary.cpp
+d:\users\б18-513\гречин а.а\glaba_3.2\binarylib\binary.cpp(410): warning C4717: 'binary::operator>>' : recursive on all control paths, function will cause runtime stack overflow
+  BinaryLib.vcxproj -> D:\USERS\Б18-513\Гречин А.А\GLaba_3.2\Debug\BinaryLib.lib
